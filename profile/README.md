@@ -7,3 +7,7 @@ Most of the repositories are code-messy and not something I'd proudly show to an
 ---
 
 Still missing a couple of old cases, haven't been the most consistent user of github during some of them, but stay tuned - they're coming!
+
+---
+
+Main account: https://github.com/olofaksberg
